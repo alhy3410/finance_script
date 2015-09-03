@@ -4,6 +4,6 @@ This will currently go to the Edgar site so I can grab all the excel finance doc
 ### Work in Progress
 This is currently a work in progress
 ### To Do List
--Getting a rails api running
--Ember Front-end
--axlsx  gem to modify and download documents
+- Getting a rails api running
+- Ember Front-end
+- axlsx  gem to modify and download documents
